@@ -11,5 +11,5 @@ class TypographCommand(sublime_plugin.TextCommand):
 		typograph.nobr(3)
 		for region in self.view.sel():
 			regionText = self.view.substr(region)
-			processed = typograph.processText(regionText)
+			processed = typograph.processText(regionText).strip(' \n\r')
 			self.view.replace(edit, region, processed)
