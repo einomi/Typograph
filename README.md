@@ -1,4 +1,4 @@
-# Typograph
+# HTML Typographer
 This is the implementation of [Lebedev Web Typograph](https://www.artlebedev.ru/tools/typograf/) for Sublime Text 3 editor.
 
 ## Description
@@ -10,7 +10,7 @@ will be transformed into
 `He\&nbsp;loves \&laquo;Sumblime Text Editor\&raquo;!`
 
 ## Usage
-Select some text and press ctrl+shift+t or call typograph comand from menu (by pressing ctrl+shift+p).
+Select some text and press ctrl+shift+t or call typograph comand from menu (by pressing ctrl+shift+p and typing `typograph`).
 
 ## Contribution
 Plugin is using [Lebedev Typograph](https://www.artlebedev.ru/tools/typograf/) web service.
