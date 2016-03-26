@@ -1,5 +1,5 @@
 # HTML Typographer
-This is the implementation of [Lebedev Web Typograph](https://www.artlebedev.ru/tools/typograf/) for Sublime Text 3 editor.
+This is the implementation of [Lebedev Web Typograph](https://www.artlebedev.ru/tools/typograf/) for Sublime Text 3/2 3/2 editor.
 
 ## Description
 Plugin sets up correct word wrapping of selected text, transforms the neccessary symbols into correct HTML entities.  
