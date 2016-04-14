@@ -1,6 +1,6 @@
 import sublime, sublime_plugin
 
-from .RemoteTypograf import RemoteTypograf
+from RemoteTypograf import RemoteTypograf
 
 
 class TypographCommand(sublime_plugin.TextCommand):
